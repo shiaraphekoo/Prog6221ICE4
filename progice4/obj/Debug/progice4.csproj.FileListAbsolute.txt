@@ -1,0 +1,10 @@
+C:\Users\pheko\source\repos\progice4\obj\Debug\progice4.csproj.AssemblyReference.cache
+C:\Users\pheko\source\repos\progice4\obj\Debug\CalculatorApp.CalculatorForm.resources
+C:\Users\pheko\source\repos\progice4\obj\Debug\progice4.Properties.Resources.resources
+C:\Users\pheko\source\repos\progice4\obj\Debug\progice4.csproj.GenerateResource.cache
+C:\Users\pheko\source\repos\progice4\obj\Debug\progice4.csproj.CoreCompileInputs.cache
+C:\Users\pheko\source\repos\progice4\bin\Debug\progice4.exe.config
+C:\Users\pheko\source\repos\progice4\bin\Debug\progice4.exe
+C:\Users\pheko\source\repos\progice4\bin\Debug\progice4.pdb
+C:\Users\pheko\source\repos\progice4\obj\Debug\progice4.exe
+C:\Users\pheko\source\repos\progice4\obj\Debug\progice4.pdb
